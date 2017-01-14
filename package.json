@@ -1,13 +1,11 @@
 {
-  "name": "git-grep-edit",
+  "name": "git-grep-edit-vscdoe",
   "version": "0.0.1",
-  "description": "git grep + peco + editor",
+  "description": "git grep + peco + vscode",
   "license": "MIT",
-  "repository": "akameco/git-grep-edit",
+  "repository": "bokuweb/git-grep-edit",
   "author": {
-    "name": "akameco",
-    "email": "akameco.t@gmail.com",
-    "url": "akameco.github.io"
+    "name": "bokuweb"
   },
   "bin": "git-grep-edit.sh",
   "files": [
@@ -16,6 +14,7 @@
   "keywords": [
     "git",
     "gerp",
-    "peco"
+    "peco",
+    "vscode"
   ]
 }
