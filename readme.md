@@ -8,7 +8,7 @@ this package is forked from https://github.com/akameco/git-grep-edit.
 ## Install
 
 ```sh
-$ npm install --global git-grep-edit-vscoe
+$ npm install --global git-grep-edit-vscode
 ```
 
 ## Usage

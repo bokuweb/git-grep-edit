@@ -1,6 +1,6 @@
 {
-  "name": "git-grep-edit-vscdoe",
-  "version": "0.0.1",
+  "name": "git-grep-edit-vscode",
+  "version": "0.0.2",
   "description": "git grep + peco + vscode",
   "license": "MIT",
   "repository": "bokuweb/git-grep-edit",
